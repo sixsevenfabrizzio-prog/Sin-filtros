@@ -1,0 +1,6 @@
+{
+  "name": "NovaStream - Plataforma de Video Exclusiva",
+  "description": "Plataforma profesional de streaming y descarga de videos con reproductor avanzado (+10s), gestión exclusiva de contenidos para administradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
